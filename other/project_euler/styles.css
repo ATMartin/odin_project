@@ -1,0 +1,9 @@
+.question {
+    border: 1px solid black;
+    background-color: #ccc;
+}
+
+.answer { border: 1px dashed #a00; }
+
+.unsolved { background-color: #fee; }
+.solved { background-color: #efe; }
